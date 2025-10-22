@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="assets/branding/spotube_banner.png" alt="Spotube Logo">
+  <img width="1600" src="assets/branding/spotube_banner.png" alt="Spotube Logo">
 
 A cross-platform extensible open-source music streaming platform.<br>
 Bring your own music metadata/playlist with plugins created by community or by yourself. A small step towards the decentralized music streaming era!
